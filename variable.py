@@ -5,4 +5,8 @@ print(x) # print function is used to print the value of x in output
 # again changing
 # 3rd changing
 #this changing is doing in github itself
+<<<<<<< HEAD
 # this is notting
+=======
+# change show in cli
+>>>>>>> ff249575e71dc89918b20292abc10bc7a8bb0d8d
