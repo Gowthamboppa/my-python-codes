@@ -11,6 +11,7 @@ print(x) # print function is used to print the value of x in output
 # this change is going in cli to stage commit and pull in central repo
 #here i am creating variable y in for loop
 y=10
-for y<10:
-    print(y)
-    y=+1
+for y in range (20):
+    if y<15:
+        print(y)
+        y=+1
