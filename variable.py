@@ -11,3 +11,4 @@ print(x) # print function is used to print the value of x in output
 # change show in cli
 >>>>>>> ff249575e71dc89918b20292abc10bc7a8bb0d8d
 # this changing is doing to pull in cli
+# this change is going in cli to stage commit and pull in central repo
