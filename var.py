@@ -10,8 +10,8 @@ print(x) # print function is used to print the value of x in output
 # this changing is doing to pull in cli
 # this change is going in cli to stage commit and pull in central repo
 #here i am creating variable y in for loop
-y=10
-for y in range (20):
-    if y<15:
+x=10
+for x in range (20):
+    if x<15:
         print(y)
-        y=+1
+        x=+1
