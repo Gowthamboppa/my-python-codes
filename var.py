@@ -13,7 +13,5 @@ print(x) # print function is used to print the value of x in output
 x=10
 for x in range (20):
     if x<15:
-        print(y)
-        x=+1
-    
+        print(x)
     
