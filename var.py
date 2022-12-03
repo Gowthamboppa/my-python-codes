@@ -15,5 +15,7 @@ for x in range (20):
     if x<15:
         print(y)
         x=+1
+        y=x
+        print(y)
     # y is deleted
     # checking jenkins
