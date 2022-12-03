@@ -18,5 +18,6 @@ for x in range (20):
         y=x
         print(y)
         print(x)
+        print(z)
 
     
