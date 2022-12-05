@@ -1,2 +1,2 @@
 for x in range(5):
-    print(x 'IS PRINTED')
+    print(x 'IS NUMBER')
